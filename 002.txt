@@ -1,0 +1,11 @@
+- First of all, Zack from PC Simplest was asked to describe his day to day life working in IT.
+- They use the Microsoft Windows software stack (operational system, active directory, exchange).
+- They use a ticketing system called Service Desk and he's pretty happy with it.
+- They use SureTel VOIP phone and nice headsets to make communicating easier.
+- A lot of his time revolves around answering the phone, sorting out tickets and going out
+into the field to put out fires around the facilities he works for.
+- He also handles users accounts creation and set up.
+- Everyday it's a little different, he's always faced with new challenges.
+- The ticketing system helps him stay organized and to prioritize the right issues.
+- Then he went over the Active Directory features and talked a little bit about each one.
+- He closes talking about how he does a little bit of everything around the office.
